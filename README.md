@@ -1,3 +1,5 @@
+![Pylint Status](https://github.com/damienos61/viraxtunnel/actions/workflows/pylint.yml/badge.svg)
+
 # 🛡️ VIRAXTUNNEL V3 — ULTIMATE BATTLE-READY
 
 ViraxTunnel is a stealth communication system designed for environments where network surveillance is pervasive. It combines the strength of modern asymmetric cryptography with the subtlety of Unicode steganography.
