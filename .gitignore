@@ -1,0 +1,12 @@
+# Ne jamais uploader les clés privées ou publiques personnelles
+*.sign
+*.enc
+*.json
+
+# Sauf les fichiers d'exemple si tu veux
+!bob_pub.json
+
+# Fichiers temporaires et Python
+__pycache__/
+*.tmp
+.env
